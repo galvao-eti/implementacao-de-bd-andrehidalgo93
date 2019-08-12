@@ -1,5 +1,7 @@
 # pos-alfa-2019
 
+Andre Hidalgo Machado
+
 Trabalho final da turma de 2019 da Disciplina Orientação a Objetos usando PHP como Linguagem de Implementação.
 
 ## Orientações
